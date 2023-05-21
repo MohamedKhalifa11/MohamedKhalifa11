@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khalifa</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedkhalifa11&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedkhalifa11" /> </p>
-
 - 🔭 I’m currently working on **Special Template**
 
 - 🌱 I’m currently learning **JavaScript, Responsive Web Design, React, Vue, UI and UX**
