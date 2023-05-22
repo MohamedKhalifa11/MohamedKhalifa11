@@ -25,35 +25,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedkhalifa11&show_icons=true&locale=en" alt="mohamedkhalifa11" /></p>
  -->
- 
- <!DOCTYPE html>
-<html>
-<head>
-  <title>GitHub Stats</title>
-</head>
-<body>
-  <h2>Top Languages</h2>
-  <div id="top-languages"></div>
 
-  <h2>Stats</h2>
-  <div id="stats"></div>
+## Top Languages
 
-  <script>
-    // Fetch and render top languages
-    fetch('https://github-readme-stats.vercel.app/api/top-langs?username=mohamedkhalifa11&show_icons=true&locale=en&layout=compact')
-      .then(response => response.text())
-      .then(data => {
-        const topLanguagesDiv = document.getElementById('top-languages');
-        topLanguagesDiv.innerHTML = data;
-      });
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mohamedkhalifa11&show_icons=true&locale=en&layout=compact)
 
-    // Fetch and render stats
-    fetch('https://github-readme-stats.vercel.app/api?username=mohamedkhalifa11&show_icons=true&locale=en')
-      .then(response => response.text())
-      .then(data => {
-        const statsDiv = document.getElementById('stats');
-        statsDiv.innerHTML = data;
-      });
-  </script>
-</body>
-</html>
+## Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mohamedkhalifa11&show_icons=true&locale=en)
