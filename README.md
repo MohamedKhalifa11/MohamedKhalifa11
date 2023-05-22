@@ -24,11 +24,3 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedkhalifa11&show_icons=true&locale=en&layout=compact" alt="mohamedkhalifa11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedkhalifa11&show_icons=true&locale=en" alt="mohamedkhalifa11" /></p> -->
-
-
-
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
