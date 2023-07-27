@@ -7,9 +7,7 @@
 
 - 💬 Ask me about **Web Technologies**
 
-- 📫 How to reach me **mkhkun11@gmail.com**
-
-- ⚡ **I love coding and gaming**
+- ⚡ **Coding for fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
