@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khalifa</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m a fresh graduate from **faculty of Computer and Information Technology, Egypt.**
+- 🔭 I’m a fresh graduate from **Faculty of Computer and Information Technology, Egypt.**
 
 - 🌱 I’m currently learning **Front End Web Development(JavaScript, Responsive Web Design, React, Vue, UI and UX)**
 
 - 💬 Ask me about **Web Technologies**
+
+- 📫 How to reach me: mkhkun11@gmail.com
 
 - ⚡ **Coding for fun**
 
